@@ -10,6 +10,7 @@ print(tamanho)
 
 print(a[0])   # Irá printar a posicao 0 da string
 
-print(concatenar[0:3])  # Irá printar até a posicao 3 da string
+print(concatenar[0:2])  # Irá printar até a posicao 2 da string
 
 print(concatenar[0:])  # Irá printar tudo
+
